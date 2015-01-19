@@ -3,7 +3,7 @@ import json
 import urllib.request
 
 import html2text
-
+# Custom module
 
 def remove_duplicates(l):
     return list(set(l))
